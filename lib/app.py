@@ -1,1 +1,3 @@
-print("Hello World! Pass this test, please.")
+def main():
+    print("Hello World! Pass this test, please.")
+
